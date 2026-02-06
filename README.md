@@ -27,4 +27,4 @@
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Enzoperalva&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
-![Snake](https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/output/snake.svg)
+<img width="1775" height="889" alt="image" src="https://github.com/user-attachments/assets/b8bce25d-52bb-4297-9c12-24c5686d01a1" />
