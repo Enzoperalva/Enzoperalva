@@ -1,6 +1,6 @@
 # Hello, World! I'm Enzo.
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJtOWl1cGQ1bWp6a3F4bHl6N2M1N2Q5a3BmN2VxYnZxZzZzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6oey6gEHRzKuz7bq6/giphy.gif"/>
+<img align="right" height="200" src="https://www.picgifs.com/games-gifs/games-gifs/pokemon/picgifs-pokemon-517810.gif"/>
 
 <div>
   <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -10,7 +10,7 @@
 
 • 👨🏽‍💻 Backend  
 • 📚 Estudando Python e Javascript  
-• ↻ Eng. software  
+• ↻ Eng. Software  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
