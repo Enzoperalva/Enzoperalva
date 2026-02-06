@@ -46,9 +46,7 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/output/pacman-contribution-graph.svg">
+ ![Snake](https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/sa%C3%ADda/github-contribution-snake.svg)
 </picture>
 
 ###
