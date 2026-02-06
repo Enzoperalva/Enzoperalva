@@ -1,10 +1,10 @@
 # Olá! Seja bem-vindo!
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm53ZWJiZWI4bTY1bGludWc3N2U3bDg4ZTFyMzU1MXltcmprdGR0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJtOWl1cGQ1bWp6a3F4bHl6N2M1N2Q5a3BmN2VxYnZxZzZzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6oey6gEHRzKuz7bq6/giphy.gif"/>
 
 <div>
   <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:guilhermerodriguesm23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:pessoalenzopinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/QAsjkNTR"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div><br>
 
