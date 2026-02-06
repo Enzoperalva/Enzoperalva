@@ -1,4 +1,4 @@
-# Hello, Workd! I'm Enzo.
+# Hello, World! I'm Enzo.
 
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJtOWl1cGQ1bWp6a3F4bHl6N2M1N2Q5a3BmN2VxYnZxZzZzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X6oey6gEHRzKuz7bq6/giphy.gif"/>
 
