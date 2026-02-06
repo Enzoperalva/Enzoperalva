@@ -27,4 +27,6 @@
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Enzoperalva&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
 </div>
 
-![Snake](https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/sa%C3%ADda/snake.svg)
+<!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/a4352442-12c1-4da7-9fa7-a6a57066c696" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
+<!--END_SECTION:badges-->
