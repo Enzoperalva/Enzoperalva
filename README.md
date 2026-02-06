@@ -1,1 +1,30 @@
-<h2 align="left">👨🏽‍💻Olá, mundo! Eu sou o Enzo.</h2> ### <div align="left"> <a href="https://discord.gg/QAsjkNTR" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  /> </a> <a href="pessoalenzopinheiro@gmail.com" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  /> </a> <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/?locale=en_US" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  /> </a> </div> ### <img align="right" height="150" src="https://giphy.com/explore/pokemon-stickers"  /> ### <p align="left">• 👨🏽‍💻 Backend<br>• 📚 Estudando Python e Javascript<br>• ↻ Eng. software</p> ### <div align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  /> <img width="12" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  /> </div> ### <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Enzoperalva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enzoperalva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /> </div> ### <picture> ![Snake](https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/sa%C3%ADda/github-contribution-snake.svg) </picture> ###
+# Olá! Seja bem-vindo!
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm53ZWJiZWI4bTY1bGludWc3N2U3bDg4ZTFyMzU1MXltcmprdGR0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+
+<div>
+  <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:guilhermerodriguesm23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/QAsjkNTR"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div><br>
+
+• 👨🏽‍💻 Backend  
+• 📚 Estudando Python e Javascript  
+• ↻ Eng. programas  
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+</div>
+
+##
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Enzoperalva&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Enzoperalva&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
+</div>
+
+![Snake](https://raw.githubusercontent.com/Enzoperalva/Enzoperalva/sa%C3%ADda/github-contribution-snake.svg)
