@@ -1,37 +1,67 @@
-# Hello, World! I'm Enzo.
+# Hi 👋, I'm Enzo Peralva
 
-<img align="right" height="200" src="https://www.picgifs.com/games-gifs/games-gifs/pokemon/picgifs-pokemon-517810.gif"/>
 
-<div>
-  <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:pessoalenzopinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/QAsjkNTR"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div><br>
+🚀 Estudante de Engenharia de Software
+📍 Salvador, Brasil
 
-• 👨🏽‍💻 Backend  
-• 📚 Estudando Python e Javascript  
-• ↻ Eng. Software  
+I'm a software engineering student focused on building solid foundations in web development and logic.
+Currently deep-diving into the Python and JavaScript ecosystems.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="html5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="css3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-</div>
+<hr style="border: none; background-color: white; height: 1px;"> 
 
-##
-
-<div align="center">
-  <img height="140em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Enzoperalva&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" alt="languages graph"/>
-  <img height="140em" src="https://github-readme-stats-fast.vercel.app/api?username=Enzoperalva&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
-</div>
+### 🤝 Where to find me
 
 <div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:pessoalenzopinheiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.gg/QAsjkNTR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
+<hr style="border: none; background-color: white; height: 1px;"> 
+
+
+### 🧠 What I do
+---
+
+* 🐍 **Sistemas & Lógica:** Desenvolvendo aplicações e automações com Python.
+* 🌐 **Web Development:** Criando interfaces dinâmicas com JavaScript.
+* 🎨 **UI Foundations:** Estruturando e estilizando páginas modernas com HTML5 e CSS3.
+* 🐧 **Environment & Flow:** Operando em ambiente Linux com foco em versionamento (Git/GitHub).
+
+<hr style="border: none; background-color: white; height: 1px;"> 
+
+### 🛠️ Tech Stack
+---
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<hr style="border: none; background-color: white; height: 1px;"> 
+
+### 📊 GitHub Stats
+---
+<br>
+
+<p align="left">
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=enzoperalva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoperalva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
+
+---
