@@ -1,7 +1,6 @@
 # Hi 👋, I'm Enzo Peralva
 
-
-🚀 Estudante de Engenharia de Software
+🚀 Estudante de Engenharia de Software <br>
 📍 Salvador, Brasil
 
 I'm a software engineering student focused on building solid foundations in web development and logic.
