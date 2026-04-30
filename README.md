@@ -59,7 +59,7 @@ Currently deep-diving into the Python and JavaScript ecosystems.
   />
   <img 
     height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoperalva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoperalva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide=cython,jupyter+notebook&cache_seconds=1800" 
   />
 </p>
 
