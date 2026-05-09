@@ -50,20 +50,14 @@ Currently deep-diving into the Python and JavaScript ecosystems.
 
 ### 📊 GitHub Stats
 ---
-<br>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<p align="left">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=enzoperalva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&cache_seconds=1800"
-    alt="GitHub Stats"
-  />
+  <img height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzoperalva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoperalva&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide=cython,jupyter-notebook&cache_seconds=1800"
-    alt="Top Languages"
-  />
-</p>
+  <img height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzoperalva&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
