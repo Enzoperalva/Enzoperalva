@@ -49,16 +49,13 @@ Currently deep-diving into the Python and JavaScript ecosystems.
 <hr style="border: none; background-color: white; height: 1px;"> 
 
 ### 📊 GitHub Stats
----
 
 <div align="center">
 
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=enzoperalva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    src="https://github-readme-stats.vercel.app/api?username=Enzoperalva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
   <img height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=enzoperalva&layout=compact&langs_count=8&theme=tokyonight"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoperalva&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
-
----
