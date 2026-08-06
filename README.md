@@ -1,26 +1,35 @@
 # Hi 👋, I'm Enzo Peralva
 
-💻 Software Engineering Student at UCSAL  
+💻 Software Engineering Student at Universidade Católica do Salvador (UCSAL)  
+🌐 Full Stack Developer focused on Backend Development  
 📍 Salvador, Brazil
 
 I'm a Software Engineering student passionate about technology and continuous learning.
 Currently building a strong foundation in software development through academic studies, personal projects, and hands-on practice.
 
-At the moment, I'm focused on Java, Python, JavaScript, and software engineering fundamentals.
-
 ## 🚀 About Me
 
-- 🎓 Software Engineering student.
-- 📚 Always learning and improving my programming skills.
-- 💡 Interested in Backend Development, Web Development, and Software Architecture.
+- 🎓 Software Engineering student at UCSAL.
+- ☕ Focused on backend development with Java.
+- 📚 Constantly improving my programming and software engineering skills.
+- 💡 Interested in Backend Development, Software Architecture, and Web Development.
 - 🐧 Linux user passionate about open-source technologies.
-- 🌱 Currently learning **Java**, **Python**, **JavaScript**, and **Docker**.
+- 🌱 Currently learning Java, Docker, and software engineering fundamentals.
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="SEU_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:pessoalenzopinheiro@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+
+  <a href="https://wa.me/5574981526776" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
 </p>
 
 ## 🛠️ Tech Stack
