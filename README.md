@@ -23,13 +23,13 @@ Currently building a strong foundation in software development through academic 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/enzo-peralva-461b08392/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:pessoalenzopinheiro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
   </a>
-  <a href="https://wa.me/5571SEUNUMERO" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/5574981526776" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" height="48" alt="WhatsApp"/>
   </a>
 </p>
@@ -59,7 +59,7 @@ Currently building a strong foundation in software development through academic 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Enzoperalva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzoperalva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoperalva&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
