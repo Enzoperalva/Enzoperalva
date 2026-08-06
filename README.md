@@ -52,15 +52,25 @@ Currently building a strong foundation in software development through academic 
 
 ## 📌 Projects
 
-*(Em breve você insere os seus projetos aqui)*
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [Assistente de voz IA](https://github.com/Enzoperalva/voice-ai-assistant) | Assistente virtual com reconhecimento de fala e respostas inteligentes usando IA generativa (Gemini) | Python, PyAudio, GeminiApi |
+| [Crud JSON](https://github.com/Enzoperalva/crud-json) | CRUD via terminal com armazenamento em JSON e interface rica usando `rich` | Python, JSON, Rich |
+| [Jogo Campo Minado](https://github.com/Enzoperalva/minefield) | Clássico campo minado no console, com revelação de células e bandeiras | Java |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=enzoperalva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoperalva&layout=compact&theme=github_dark&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Enzoperalva&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzoperalva&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
 
 ---
